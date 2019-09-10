@@ -1,6 +1,6 @@
 require "bundler/setup"
 require 'yaml'
-require 'active_record'
+require 'active_record', "~>5.2.3"
 
 Bundler.require
 
